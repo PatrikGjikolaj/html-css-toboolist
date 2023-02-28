@@ -48,6 +48,12 @@ section{
     border-bottom-right-radius: 10px;
 
 }
+.tasti{
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
 .check{
     border-radius: 50%;
     border: 1px solid green;
@@ -61,44 +67,20 @@ section{
     color: red;
 }
 .tastobl{
-    padding: 5px;
     background-color: rgb(71, 173, 241);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
 .tastovi{
-    padding: 5px;
     background-color: rgb(156, 114, 228);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
 .tastove{
-    padding: 5px;
     background-color: rgb(100, 192, 169);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
 .tastoar{
-    padding: 5px;
     background-color: rgb(242, 158, 51);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
 .tastors{
-    padding: 5px;
     background-color: rgb(216, 99, 161);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
 .tastovec{
-    padding: 5px;
     background-color: rgb(176, 201, 38);
-    border-radius: 10px;
-    color: white;
-    font-size: 15px;
 }
